@@ -1,0 +1,35 @@
+{
+  "name": "tesapie",
+  "version": "1.0.0",
+  "description": "tes doang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dandisubhani_",
+  "license": "ISC",
+  "dependencies": {
+    "apikue": "^1.2.1",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "connect-flash": "^0.1.1",
+    "cookie": "^0.5.0",
+    "dandi-api": "^1.2.0",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "form-data": "^4.0.0",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.4",
+    "html-to-text": "^9.0.5",
+    "lodash": "^4.17.21",
+    "millify": "^6.1.0",
+    "node-fetch": "^2.6.6",
+    "path": "^0.12.7",
+    "qs": "^6.11.2",
+    "request": "^2.88.2",
+    "serve-favicon": "^2.5.0",
+    "ssl-express-www": "^3.2.1",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  }
+}
